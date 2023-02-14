@@ -1,0 +1,1 @@
+INSERT INTO ADDRESS VALUES (1, 'Chandana', 'Kalyadapu','9591114898','Sheffield Pond street');
